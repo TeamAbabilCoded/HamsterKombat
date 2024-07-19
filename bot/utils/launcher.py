@@ -17,7 +17,15 @@ banner = """
   / // /__ ___ _  ___ / /____ ____  / //_/__  __ _  / /  ___ _/ /_
  / _  / _ `/  ' \(_-</ __/ -_) __/ / ,< / _ \/  ' \/ _ \/ _ `/ __/
 /_//_/\_,_/_/_/_/___/\__/\__/_/   /_/|_|\___/_/_/_/_.__/\_,_/\__/ 
-                                                                  
+      Author : Muhammad Khairil. ||  Telegram : @KarFeed.
+    Support : Cocentz404.        ||  Youtube : Cocentz404.
+
+[+] Indonesia/English')
+[+] Ini Adalah Program Ilegal
+[+] Semua Resiko Harap Ditanggung Pengguna..!!
+[+] This Is An Illegal Program
+[+] All Risks Borne by Users...!
+
 """
 options = """
 Select an action:
